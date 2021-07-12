@@ -1,0 +1,13 @@
+{
+  "name": "Usage",
+  "version": "1.0.0",
+  "description": "Live demo",
+  "keywords": [],
+  "homepage": "https://stackblitz.com/",
+  "main": "index.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  }
+}
