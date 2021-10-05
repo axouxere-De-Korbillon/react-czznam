@@ -1,13 +1,20 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import Button from "@material-ui/core/Button";
+import './style.css';
+import Saludo from './saludame.js';
+
+
 
 function App() {
   return (
-    <Button variant="contained" color="primary">
-      Hello World
-    </Button>
+     <div className="button">Hola</div>
+    
   );
 }
 
-ReactDOM.render(<App />, document.querySelector("#app"));
+ReactDOM.render(
+<div>
+<App />
+<Saludo />
+</div>,
+ document.querySelector("#app"));

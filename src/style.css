@@ -1,3 +1,26 @@
-h1, p {
+.button {
   font-family: Lato;
+  font-size: 2rem;
+  text-align: center;
+  color:rgb(112, 13, 82);
+
+}
+.btn-primary{
+  font-family: Lato;
+  font-size: 2rem;
+  text-align: center;
+  color:rgb(112, 13, 82);
+  box-align: center;
+  display: block;
+  position: absolute;
+  top: 20%;
+  left: 50%;
+
+  transform: translate(-50%, -50%);
+  margin: 0;
+  border:3px7px 12px 7px ;
+ border-radius: 4px;
+  height: 40px;
+
+  background: #999FF0;
 }

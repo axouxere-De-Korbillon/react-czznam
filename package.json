@@ -6,7 +6,6 @@
   "homepage": "https://stackblitz.com/",
   "main": "index.js",
   "dependencies": {
-    "@material-ui/core": "latest",
     "react": "latest",
     "react-dom": "latest"
   }
